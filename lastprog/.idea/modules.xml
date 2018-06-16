@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DukeProgram.iml" filepath="$PROJECT_DIR$/.idea/DukeProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Matplotlib/.idea/IntermPython.iml" filepath="$PROJECT_DIR$/../Matplotlib/.idea/IntermPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../IntermPython/.idea/IntermPython.iml" filepath="$PROJECT_DIR$/../IntermPython/.idea/IntermPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Oprator.py/.idea/Oprator.py.iml" filepath="$PROJECT_DIR$/../Oprator.py/.idea/Oprator.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Scrpting/.idea/Python_Scrpting.iml" filepath="$PROJECT_DIR$/../Python_Scrpting/.idea/Python_Scrpting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../promatplot/.idea/promatplot.iml" filepath="$PROJECT_DIR$/../promatplot/.idea/promatplot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pyfuncks&amp;packs/.idea/pyfuncks&amp;packs.iml" filepath="$PROJECT_DIR$/../pyfuncks&amp;packs/.idea/pyfuncks&amp;packs.iml" />
+    </modules>
+  </component>
+</project>
